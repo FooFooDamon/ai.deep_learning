@@ -1,0 +1,17 @@
+[Images]
+
+[Font]
+Language=GBK
+FontSize=7
+Margin=0.5
+
+[Bkmk]
+File=FreePic2Pdf_bkmk.txt
+AddAsText=0
+ShowBkmk=1
+ShowAll=1
+BasePage=7
+
+[Main]
+ContentsPage=
+TextPage=
